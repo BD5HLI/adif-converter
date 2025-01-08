@@ -1,0 +1,2785 @@
+QRZLogbook download for bd5hli
+    Date: Mon Feb 26 05:31:19 2024
+    Bookid: 329551
+    Records: 57
+    <ADIF_VER:5>3.1.1
+    <PROGRAMID:10>QRZLogbook
+    <PROGRAMVERSION:3>2.0
+    <eoh>
+<app_qrzlog_logid:10>1048671056
+<app_qrzlog_qsldate:8>20240212
+<app_qrzlog_status:1>C
+<band:3>15m
+<band_rx:3>15m
+<call:10>DU3/WA7WJR
+<comment:25>FT8  Sent: -14  Rcvd: -11
+<cont:2>OC
+<country:11>Philippines
+<cqz:2>27
+<dxcc:3>375
+<freq:7>21.0758
+<freq_rx:7>21.0758
+<ituz:2>50
+<lat:11>S000 00.000
+<lon:11>W000 00.000
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240203
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240203
+<qso_date_off:8>20240203
+<rst_rcvd:3>-11
+<rst_sent:3>-14
+<station_callsign:6>BD5HLI
+<time_off:4>0445
+<time_on:4>0444
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1048671170
+<app_qrzlog_qsldate:8>20240206
+<app_qrzlog_status:1>C
+<band:3>15m
+<band_rx:3>15m
+<call:4>R9MJ
+<comment:25>FT8  Sent: -13  Rcvd: -09
+<cont:2>AS
+<country:14>Asiatic Russia
+<cqz:2>17
+<distance:4>4564
+<dxcc:2>15
+<email:13>ra9mj@mail.ru
+<freq:7>21.0758
+<freq_rx:7>21.0758
+<gridsquare:4>MO65
+<ituz:2>30
+<lat:11>N055 01.200
+<lon:11>E073 37.400
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240204
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:16>Alexander Timkin
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240203
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:20>BUREAU, LOTW, DIRECT
+<qso_date:8>20240203
+<qso_date_off:8>20240203
+<qth:4>Omsk
+<rst_rcvd:3>-09
+<rst_sent:3>-13
+<station_callsign:6>BD5HLI
+<time_off:4>0446
+<time_on:4>0445
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1048671616
+<app_qrzlog_qsldate:8>20240217
+<app_qrzlog_status:1>C
+<band:3>15m
+<band_rx:3>15m
+<call:6>BH8NSC
+<comment:25>FT8  Sent: -06  Rcvd: -04
+<cont:2>AS
+<country:5>China
+<cqz:2>24
+<distance:4>1361
+<dxcc:3>318
+<email:16>448465570@qq.com
+<freq:7>21.0758
+<freq_rx:7>21.0758
+<gridsquare:4>OL36
+<ituz:2>43
+<lat:11>N026 36.200
+<lon:11>E106 42.400
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:9>Xu Liping
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240203
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240203
+<qso_date_off:8>20240203
+<qth:7>Guiyang
+<rst_rcvd:3>-04
+<rst_sent:3>-06
+<station_callsign:6>BD5HLI
+<time_off:4>0447
+<time_on:4>0447
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1048671833
+<app_qrzlog_qsldate:8>20240203
+<app_qrzlog_status:1>C
+<band:3>15m
+<band_rx:3>15m
+<call:6>YF1ALO
+<comment:25>FT8  Sent: -13  Rcvd: -13
+<cont:2>OC
+<country:9>Indonesia
+<cqz:2>28
+<distance:4>4365
+<dxcc:3>327
+<email:24>darmawanyg1alo@gmail.com
+<freq:7>21.0758
+<freq_rx:7>21.0758
+<gridsquare:4>OI42
+<iota:6>OC-021
+<ituz:2>54
+<lat:11>S007 21.252
+<lon:11>E108 12.480
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240203
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:16>DARMAWAN SAPUTRA
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240203
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240203
+<qso_date_off:8>20240203
+<qth:33>Kota Tasikmalaya 46134 Jawa Barat
+<rst_rcvd:3>-13
+<rst_sent:3>-13
+<station_callsign:6>BD5HLI
+<time_off:4>0448
+<time_on:4>0448
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1048672282
+<app_qrzlog_qsldate:8>20240203
+<app_qrzlog_status:1>C
+<band:3>15m
+<band_rx:3>15m
+<call:5>BA9TX
+<comment:25>FT8  Sent: -14  Rcvd: -17
+<cont:2>AS
+<country:5>China
+<cqz:2>23
+<distance:4>2423
+<dxcc:3>318
+<email:13>bg9tx@139.com
+<freq:7>21.0758
+<freq_rx:7>21.0758
+<gridsquare:4>NM76
+<ituz:2>43
+<lat:11>N036 23.548
+<lon:11>E094 54.779
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240203
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:14>XiangQian Wong
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240203
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:54>DIRECT OR BURO VIA BA4EG (QRZ.CN INCOMING QSL SERVICE)
+<qso_date:8>20240203
+<qso_date_off:8>20240203
+<qth:7>QingHai
+<rst_rcvd:3>-17
+<rst_sent:3>-14
+<station_callsign:6>BD5HLI
+<time_off:4>0451
+<time_on:4>0450
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1048672389
+<app_qrzlog_qsldate:8>20240206
+<app_qrzlog_status:1>C
+<band:3>15m
+<band_rx:3>15m
+<call:5>UA0AV
+<comment:25>FT8  Sent: -19  Rcvd: -19
+<cont:2>AS
+<country:14>Asiatic Russia
+<cqz:2>18
+<distance:4>3568
+<dxcc:2>15
+<email:13>ua0av@mail.ru
+<freq:7>21.0758
+<freq_rx:7>21.0758
+<gridsquare:4>NO65
+<ituz:2>32
+<lat:11>N055 59.749
+<lon:11>E092 49.138
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240206
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:13>Serge Elinsky
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240203
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240203
+<qso_date_off:8>20240203
+<qth:11>Krasnoyarsk
+<rst_rcvd:3>-19
+<rst_sent:3>-19
+<station_callsign:6>BD5HLI
+<time_off:4>0453
+<time_on:4>0453
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1048672486
+<app_qrzlog_qsldate:8>20240204
+<app_qrzlog_status:1>C
+<band:3>15m
+<band_rx:3>15m
+<call:6>YD1FRU
+<comment:25>FT8  Sent: -06  Rcvd: -05
+<cont:2>OC
+<country:9>Indonesia
+<cqz:2>28
+<distance:4>4336
+<dxcc:3>327
+<email:19>dekasalim@gmail.com
+<freq:7>21.0758
+<freq_rx:7>21.0758
+<gridsquare:4>OI33
+<iota:6>OC-021
+<ituz:2>54
+<lat:11>S006 56.400
+<lon:11>E107 44.400
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240204
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:18>Dudin Koharudin S.
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240203
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:29>LoTW, Direct, eQSL & Clublog.
+<qso_date:8>20240203
+<qso_date_off:8>20240203
+<qth:18>Bandung Jawa Barat
+<rst_rcvd:3>-05
+<rst_sent:3>-06
+<station_callsign:6>BD5HLI
+<time_off:4>0455
+<time_on:4>0454
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1051015159
+<app_qrzlog_qsldate:8>20240215
+<app_qrzlog_status:1>C
+<band:3>15m
+<band_rx:3>15m
+<call:6>BG2AUE
+<comment:25>FT8  Sent: -09  Rcvd: -13
+<cont:2>AS
+<country:5>China
+<cqz:2>24
+<distance:4>1814
+<dxcc:3>318
+<email:16>bg2aue@gmail.com
+<freq:7>21.0755
+<freq_rx:7>21.0755
+<gridsquare:4>PN35
+<ituz:2>33
+<lat:11>N045 43.191
+<lon:11>E126 36.448
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240209
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:9>Miao Gang
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240206
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:21>LOTW,DIRECT OR BUREAU
+<qso_date:8>20240206
+<qso_date_off:8>20240206
+<qth:28>No.15 Hongjun Street, HARBIN
+<rst_rcvd:3>-13
+<rst_sent:3>-09
+<station_callsign:6>BD5HLI
+<time_off:4>0143
+<time_on:4>0142
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1051015371
+<app_qrzlog_status:1>N
+<band:3>15m
+<band_rx:3>15m
+<call:6>E21EIC
+<comment:25>FT8  Sent: -08  Rcvd: -10
+<cont:2>AS
+<country:8>Thailand
+<cqz:2>26
+<distance:4>2721
+<dxcc:3>387
+<email:17>e21eic@e21eic.net
+<freq:7>21.0755
+<freq_rx:7>21.0755
+<gridsquare:4>OK03
+<ituz:2>49
+<lat:11>N013 41.200
+<lon:11>E100 27.400
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:20>CHAMP C. MUANGAMPHUN
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240206
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:35>DIRECT, BUREAU and LoTW (see below)
+<qso_date:8>20240206
+<qso_date_off:8>20240206
+<qth:7>BANGKOK
+<rst_rcvd:3>-10
+<rst_sent:3>-08
+<station_callsign:6>BD5HLI
+<time_off:4>0146
+<time_on:4>0145
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1051016014
+<app_qrzlog_qsldate:8>20240206
+<app_qrzlog_status:1>C
+<band:3>15m
+<band_rx:3>15m
+<call:6>9M2RPN
+<comment:25>FT8  Sent: -17  Rcvd: -15
+<cont:2>AS
+<country:13>West Malaysia
+<cqz:2>28
+<distance:4>3577
+<dxcc:3>299
+<email:20>9m2rpn@planet.gov.my
+<freq:7>21.0752
+<freq_rx:7>21.0752
+<gridsquare:4>OJ03
+<ituz:2>54
+<lat:11>N003 08.399
+<lon:11>E101 41.271
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:46>Satellite Ground Station, National Planetarium
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240206
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:10>QSL Direct
+<qso_date:8>20240206
+<qso_date_off:8>20240206
+<qth:19>50480, Kuala Lumpur
+<rst_rcvd:3>-15
+<rst_sent:3>-17
+<station_callsign:6>BD5HLI
+<time_off:4>0151
+<time_on:4>0150
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1051017381
+<app_qrzlog_qsldate:8>20240206
+<app_qrzlog_status:1>C
+<band:3>15m
+<band_rx:3>15m
+<call:6>BD8CNL
+<comment:25>FT8  Sent: -03  Rcvd: -11
+<cont:2>AS
+<country:5>China
+<cqz:2>24
+<distance:4>1495
+<dxcc:3>318
+<email:16>ybdcdc@gmail.com
+<freq:7>21.0752
+<freq_rx:7>21.0752
+<gridsquare:4>OL28
+<ituz:2>43
+<lat:11>N028 45.112
+<lon:11>E104 38.630
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:9>CHEN DENG
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240206
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240206
+<qso_date_off:8>20240206
+<qth:35>YiBin City, SiChuan Province, China
+<rst_rcvd:3>-11
+<rst_sent:3>-03
+<station_callsign:6>BD5HLI
+<time_off:4>0201
+<time_on:4>0157
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1051017547
+<app_qrzlog_qsldate:8>20240206
+<app_qrzlog_status:1>C
+<band:3>15m
+<band_rx:3>15m
+<call:6>JF1SRE
+<comment:25>FT8  Sent: -01  Rcvd: -03
+<cont:2>AS
+<country:5>Japan
+<cqz:2>25
+<distance:4>1923
+<dxcc:3>339
+<email:15>jf1sre@jarl.com
+<freq:7>21.0752
+<freq_rx:7>21.0752
+<gridsquare:4>PM96
+<iota:6>AS-007
+<ituz:2>45
+<lat:11>N036 28.700
+<lon:11>E139 22.400
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240206
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:14>Masahiro Okawa
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240206
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240206
+<qso_date_off:8>20240206
+<qth:5>Gumma
+<rst_rcvd:3>-03
+<rst_sent:3>-01
+<station_callsign:6>BD5HLI
+<time_off:4>0202
+<time_on:4>0201
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1051017907
+<app_qrzlog_status:1>N
+<band:3>15m
+<band_rx:3>15m
+<call:6>JA2BCE
+<comment:25>FT8  Sent: -10  Rcvd: -07
+<cont:2>AS
+<country:5>Japan
+<cqz:2>25
+<distance:4>1660
+<dxcc:3>339
+<freq:7>21.0752
+<freq_rx:7>21.0752
+<gridsquare:6>PM85je
+<ituz:2>45
+<lat:11>N035 11.200
+<lon:11>E136 47.400
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:18>Shigekazu Miyamoto
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240206
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240206
+<qso_date_off:8>20240206
+<qth:3>Ama
+<rst_rcvd:3>-07
+<rst_sent:3>-10
+<station_callsign:6>BD5HLI
+<time_off:4>0204
+<time_on:4>0203
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1051019399
+<app_qrzlog_qsldate:8>20240215
+<app_qrzlog_status:1>C
+<band:3>10m
+<band_rx:3>10m
+<call:4>NL8F
+<comment:25>FT8  Sent: -14  Rcvd: -13
+<cont:2>NA
+<country:6>Alaska
+<cqz:1>1
+<distance:4>6285
+<dxcc:1>6
+<email:15>ttim@arctic.net
+<freq:7>28.0754
+<freq_rx:7>28.0754
+<gridsquare:6>AO63RU
+<iota:6>NA-059
+<ituz:1>1
+<lat:11>N053 51.197
+<lon:11>W166 30.976
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240208
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:18>TIMOTHY J TILLEMAN
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240206
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:12>QSL VIA N7RO
+<qso_date:8>20240206
+<qso_date_off:8>20240206
+<qth:12>Dutch Harbor
+<rst_rcvd:3>-13
+<rst_sent:3>-14
+<station_callsign:6>BD5HLI
+<time_off:4>0211
+<time_on:4>0209
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1051206555
+<app_qrzlog_qsldate:8>20240222
+<app_qrzlog_status:1>C
+<band:3>60m
+<band_rx:3>60m
+<call:6>BH6KWC
+<comment:25>FT8  Sent: -08  Rcvd: -21
+<cont:2>AS
+<country:5>China
+<cqz:2>24
+<distance:3>811
+<dxcc:3>318
+<email:28>tongxin.worldradio@gmail.com
+<freq:7>5.35842
+<freq_rx:7>5.35842
+<gridsquare:4>OM64
+<ituz:2>44
+<lat:11>N034 30.000
+<lon:11>E113 00.000
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240222
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:8>Xin Tong
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240206
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:17>PAPER, eQSL, LoTW
+<qso_date:8>20240206
+<qso_date_off:8>20240206
+<qth:32>15082915751 Xin'an Luoyang Henan
+<rst_rcvd:3>-21
+<rst_sent:3>-08
+<station_callsign:6>BD5HLI
+<time_off:4>1335
+<time_on:4>1334
+<tx_pwr:3>100
+<eor>
+
+<app_qrzlog_logid:10>1051207449
+<app_qrzlog_qsldate:8>20240207
+<app_qrzlog_status:1>C
+<band:3>60m
+<band_rx:3>60m
+<call:6>DU2FIS
+<comment:25>FT8  Sent: -08  Rcvd: -16
+<cont:2>OC
+<country:11>Philippines
+<cqz:2>27
+<distance:4>1323
+<dxcc:3>375
+<freq:7>5.35835
+<freq_rx:7>5.35835
+<gridsquare:4>PK08
+<iota:6>OC-042
+<ituz:2>50
+<lat:11>N018 20.875
+<lon:11>E120 36.750
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240206
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:15>Paul A. Keating
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240206
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:21>via LOTW or eQSL Only
+<qso_date:8>20240206
+<qso_date_off:8>20240206
+<qth:22>Pasuquin, Ilocos Norte
+<rst_rcvd:3>-16
+<rst_sent:3>-08
+<station_callsign:6>BD5HLI
+<time_off:4>1341
+<time_on:4>1338
+<tx_pwr:3>100
+<eor>
+
+<app_qrzlog_logid:10>1051213424
+<app_qrzlog_qsldate:8>20240208
+<app_qrzlog_status:1>C
+<band:3>80m
+<band_rx:3>80m
+<call:5>AI6US
+<cnty:9>CA,Placer
+<comment:25>FT8  Sent: -12  Rcvd: -07
+<cont:2>NA
+<country:13>United States
+<cqz:1>3
+<distance:5>10061
+<dxcc:3>291
+<email:27>ai6us@titaniumsatellite.com
+<freq:7>3.57425
+<freq_rx:7>3.57425
+<gridsquare:4>CM98
+<ituz:1>6
+<lat:11>N038 59.920
+<lon:11>W121 01.324
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240208
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:12>BRIAN R GOHL
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240206
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:25>100% Direct, eQSL or LoTW
+<qso_date:8>20240206
+<qso_date_off:8>20240206
+<qth:12>Meadow Vista
+<rst_rcvd:3>-07
+<rst_sent:3>-12
+<state:2>CA
+<station_callsign:6>BD5HLI
+<time_off:4>1413
+<time_on:4>1412
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1051548604
+<app_qrzlog_qsldate:8>20240207
+<app_qrzlog_status:1>C
+<band:3>10m
+<band_rx:3>10m
+<call:6>E29TGW
+<comment:25>FT8  Sent: -19  Rcvd: -10
+<cont:2>AS
+<country:8>Thailand
+<cqz:2>26
+<distance:4>2685
+<dxcc:3>387
+<email:16>e29tgw@gmail.com
+<freq:7>28.0753
+<freq_rx:7>28.0753
+<gridsquare:4>OK03
+<ituz:2>49
+<lat:11>N014 03.080
+<lon:11>E100 32.812
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240207
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:19>Weerapat Tangkleang
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240207
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:16>Bureau or Direct
+<qso_date:8>20240207
+<qso_date_off:8>20240207
+<qth:39>Tambon Bangkan Amphoe Meuang Nonthaburi
+<rst_rcvd:3>-10
+<rst_sent:3>-19
+<station_callsign:6>BD5HLI
+<time_off:4>0130
+<time_on:4>0129
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1051550183
+<app_qrzlog_qsldate:8>20240210
+<app_qrzlog_status:1>C
+<band:3>10m
+<band_rx:3>10m
+<call:6>YE9CLC
+<comment:25>FT8  Sent: -14  Rcvd: -18
+<cont:2>OC
+<country:9>Indonesia
+<cqz:2>28
+<distance:4>4356
+<dxcc:3>327
+<email:20>parkalbi@yahoo.co.id
+<freq:7>28.0753
+<freq_rx:7>28.0753
+<gridsquare:4>OI71
+<iota:6>OC-022
+<ituz:2>54
+<lat:11>S008 40.483
+<lon:11>E115 15.370
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240209
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:17>IR. I WAYAN PARKA
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240207
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240207
+<qso_date_off:8>20240207
+<qth:14>DENPASAR, BALI
+<rst_rcvd:3>-18
+<rst_sent:3>-14
+<station_callsign:6>BD5HLI
+<time_off:4>0136
+<time_on:4>0135
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1051552380
+<app_qrzlog_qsldate:8>20240207
+<app_qrzlog_status:1>C
+<band:3>15m
+<band_rx:3>15m
+<call:6>BG3IZM
+<comment:25>FT8  Sent: -08  Rcvd: -14
+<cont:2>AS
+<country:5>China
+<cqz:2>23
+<distance:4>1563
+<dxcc:3>318
+<email:14>zwgszly@qq.com
+<freq:7>21.0751
+<freq_rx:7>21.0751
+<gridsquare:4>ON83
+<ituz:2>43
+<lat:11>N043 56.200
+<lon:11>E116 02.400
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:10>lianyi 赵
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240207
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240207
+<qso_date_off:8>20240207
+<qth:41>内蒙古锡林浩特市锡林大街88号
+<rst_rcvd:3>-14
+<rst_sent:3>-08
+<station_callsign:6>BD5HLI
+<time_off:4>0149
+<time_on:4>0148
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1051552916
+<app_qrzlog_qsldate:8>20240215
+<app_qrzlog_status:1>C
+<band:3>15m
+<band_rx:3>15m
+<call:5>XW4KV
+<comment:25>FT8  Sent: -08  Rcvd: -11
+<cont:2>AS
+<country:4>Laos
+<cqz:2>26
+<distance:4>2177
+<dxcc:3>143
+<freq:7>21.0751
+<freq_rx:7>21.0751
+<gridsquare:4>OK18
+<ituz:2>49
+<lat:11>N018 46.075
+<lon:11>E102 30.671
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240211
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:15>Vincent Colombo
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240207
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:14>See info below
+<qso_date:8>20240207
+<qso_date_off:8>20240207
+<qth:10>Vang Vieng
+<rst_rcvd:3>-11
+<rst_sent:3>-08
+<station_callsign:6>BD5HLI
+<time_off:4>0153
+<time_on:4>0152
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1051554982
+<app_qrzlog_status:1>N
+<band:3>15m
+<band_rx:3>15m
+<call:6>JH5FRN
+<comment:25>FT8  Sent: -16  Rcvd: -16
+<cont:2>AS
+<country:5>Japan
+<cqz:2>25
+<distance:3>826
+<dxcc:3>339
+<freq:7>21.0753
+<freq_rx:7>21.0753
+<gridsquare:4>PM73
+<ituz:2>45
+<lat:11>N030 18.750
+<lon:11>E128 37.500
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240207
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240207
+<qso_date_off:8>20240207
+<rst_rcvd:3>-16
+<rst_sent:3>-16
+<station_callsign:6>BD5HLI
+<time_off:4>0202
+<time_on:4>0159
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1051693208
+<app_qrzlog_qsldate:8>20240215
+<app_qrzlog_status:1>C
+<band:3>40m
+<band_rx:3>40m
+<call:6>DS5BVD
+<comment:25>FT8  Sent: -12  Rcvd: -12
+<cont:2>AS
+<country:11>South Korea
+<cqz:2>25
+<distance:4>1014
+<dxcc:3>137
+<email:18>ds5bvd@hanmail.net
+<freq:7>7.07521
+<freq_rx:7>7.07521
+<gridsquare:4>PM45
+<ituz:2>44
+<lat:11>N035 13.686
+<lon:11>E129 05.686
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240207
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:11>Jae Soo Kim
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240207
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:4>LoTW
+<qso_date:8>20240207
+<qso_date_off:8>20240207
+<qth:19>Geumjeong-gu, Busan
+<rst_rcvd:3>-12
+<rst_sent:3>-12
+<station_callsign:6>BD5HLI
+<time_off:4>1352
+<time_on:4>1351
+<tx_pwr:3>100
+<eor>
+
+<app_qrzlog_logid:10>1051694469
+<app_qrzlog_qsldate:8>20240208
+<app_qrzlog_status:1>C
+<band:3>60m
+<band_rx:3>60m
+<call:5>BA3KY
+<comment:25>FT8  Sent: -03  Rcvd: -12
+<cont:2>AS
+<country:5>China
+<cqz:2>23
+<distance:4>1480
+<dxcc:3>318
+<email:14>BA3KY8@126.com
+<freq:7>5.35836
+<freq_rx:7>5.35836
+<gridsquare:4>ON40
+<ituz:2>43
+<lat:11>N040 38.748
+<lon:11>E109 47.520
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240207
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:12>Wang MingJun
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240207
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240207
+<qso_date_off:8>20240207
+<qth:64>16-2001,Baolilafei,Kundulun District Baotou, Inner Mongolia, CN 
+<rst_rcvd:3>-12
+<rst_sent:3>-03
+<station_callsign:6>BD5HLI
+<time_off:4>1359
+<time_on:4>1358
+<tx_pwr:3>100
+<eor>
+
+<app_qrzlog_logid:10>1053255423
+<app_qrzlog_qsldate:8>20240215
+<app_qrzlog_status:1>C
+<band:3>15m
+<band_rx:3>15m
+<call:5>K7OVM
+<cnty:13>OR,Washington
+<comment:25>FT8  Sent: -19  Rcvd: -10
+<cont:2>NA
+<country:13>United States
+<distance:4>9477
+<dxcc:3>291
+<email:16>k7ovm1@Gmail.com
+<freq:7>21.0752
+<freq_rx:7>21.0752
+<gridsquare:6>CN85NM
+<lat:11>N045 31.067
+<lon:11>W122 51.519
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240211
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:16>CHARLES E SHANKS
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240211
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240211
+<qso_date_off:8>20240211
+<qth:5>Aloha
+<rst_rcvd:3>-10
+<rst_sent:3>-19
+<state:2>OR
+<station_callsign:6>BD5HLI
+<time_off:4>0211
+<time_on:4>0210
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1053257576
+<app_qrzlog_status:1>N
+<band:3>12m
+<band_rx:3>12m
+<call:6>RW9ULK
+<comment:25>FT8  Sent: -11  Rcvd: -11
+<cont:2>AS
+<country:14>Asiatic Russia
+<cqz:2>18
+<distance:4>3797
+<dxcc:2>15
+<freq:6>24.916
+<freq_rx:6>24.916
+<gridsquare:4>NO34
+<ituz:2>31
+<lat:11>N054 16.200
+<lon:11>E086 07.400
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:30>Vladimir Antonovich. Kazantsev
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240211
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240211
+<qso_date_off:8>20240211
+<qth:25>Belovo, Kemerovskaya obl.
+<rst_rcvd:3>-11
+<rst_sent:3>-11
+<station_callsign:6>BD5HLI
+<time_off:4>0222
+<time_on:4>0221
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1053258221
+<app_qrzlog_qsldate:8>20240216
+<app_qrzlog_status:1>C
+<band:3>12m
+<band_rx:3>12m
+<call:6>JA7KHQ
+<comment:25>FT8  Sent: -04  Rcvd: -03
+<cont:2>AS
+<country:5>Japan
+<cqz:2>25
+<distance:4>1560
+<dxcc:3>339
+<email:24>isamu@seagreen.ocn.ne.jp
+<freq:6>24.916
+<freq_rx:6>24.916
+<gridsquare:4>QN00
+<ituz:2>45
+<lat:11>N037 18.750
+<lon:11>E134 37.500
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240213
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:12>ISAMU SUZUKI
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240211
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:26>VIA BUREAU, DIRECT or LoTW
+<qso_date:8>20240211
+<qso_date_off:8>20240211
+<qth:30>MINAMITSUGARU, AOMORI 038-1141
+<rst_rcvd:3>-03
+<rst_sent:3>-04
+<station_callsign:6>BD5HLI
+<time_off:4>0229
+<time_on:4>0228
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1053258636
+<app_qrzlog_status:1>N
+<band:3>12m
+<band_rx:3>12m
+<call:6>JK1VVK
+<comment:25>FT8  Sent: -05  Rcvd: -02
+<cont:2>AS
+<country:5>Japan
+<cqz:2>25
+<distance:4>1907
+<dxcc:3>339
+<freq:6>24.916
+<freq_rx:6>24.916
+<gridsquare:4>PM95
+<iota:6>AS-007
+<ituz:2>45
+<lat:11>N035 41.200
+<lon:11>E139 26.441
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:18>Hiroyuki Muramatsu
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240211
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240211
+<qso_date_off:8>20240211
+<qth:21>Kunitachi-city, Tokyo
+<rst_rcvd:3>-02
+<rst_sent:3>-05
+<station_callsign:6>BD5HLI
+<time_off:4>0231
+<time_on:4>0231
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1055738039
+<app_qrzlog_qsldate:8>20240215
+<app_qrzlog_status:1>C
+<band:3>15m
+<band_rx:3>15m
+<call:4>NL8F
+<comment:25>FT8  Sent: -09  Rcvd: -05
+<cont:2>NA
+<country:6>Alaska
+<cqz:1>1
+<distance:4>6285
+<dxcc:1>6
+<email:15>ttim@arctic.net
+<freq:7>21.0754
+<freq_rx:7>21.0754
+<gridsquare:6>AO63RU
+<iota:6>NA-059
+<ituz:1>1
+<lat:11>N053 51.197
+<lon:11>W166 30.976
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240215
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:18>TIMOTHY J TILLEMAN
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240215
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:12>QSL VIA N7RO
+<qso_date:8>20240215
+<qso_date_off:8>20240215
+<qth:12>Dutch Harbor
+<rst_rcvd:3>-05
+<rst_sent:3>-09
+<station_callsign:6>BD5HLI
+<time_off:4>0251
+<time_on:4>0250
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1055738642
+<app_qrzlog_qsldate:8>20240215
+<app_qrzlog_status:1>C
+<band:3>15m
+<band_rx:3>15m
+<call:5>N0ODK
+<cnty:13>MN,Washington
+<comment:25>FT8  Sent: -19  Rcvd: -11
+<cont:2>NA
+<country:13>United States
+<cqz:1>4
+<distance:5>10982
+<dxcc:3>291
+<email:19>mikepask1@gmail.com
+<freq:7>21.0754
+<freq_rx:7>21.0754
+<gridsquare:6>EN35MG
+<ituz:1>7
+<lat:11>N045 16.944
+<lon:11>W092 56.922
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240215
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:19>MICHAEL D PASKEURIC
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240215
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:61>BUREAU, ClubLog Buro card request, LOTW, OR DIRECT. (No EQSL)
+<qso_date:8>20240215
+<qso_date_off:8>20240215
+<qth:11>FOREST LAKE
+<rst_rcvd:3>-11
+<rst_sent:3>-19
+<state:2>MN
+<station_callsign:6>BD5HLI
+<time_off:4>0256
+<time_on:4>0255
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1055738799
+<app_qrzlog_qsldate:8>20240218
+<app_qrzlog_status:1>C
+<band:3>15m
+<band_rx:3>15m
+<call:6>KC0BRA
+<cnty:12>UT,Salt Lake
+<comment:25>FT8  Sent: -18  Rcvd: -12
+<cont:2>NA
+<country:13>United States
+<cqz:1>3
+<distance:5>10480
+<dxcc:3>291
+<email:15>mike@kc0bra.com
+<freq:7>21.0754
+<freq_rx:7>21.0754
+<gridsquare:6>DN30xr
+<ituz:1>6
+<lat:11>N040 43.752
+<lon:11>W112 02.520
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:17>MICHAEL J KRISCHE
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240215
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240215
+<qso_date_off:8>20240215
+<qth:11>West Valley
+<rst_rcvd:3>-12
+<rst_sent:3>-18
+<state:2>UT
+<station_callsign:6>BD5HLI
+<time_off:4>0258
+<time_on:4>0257
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1055874259
+<app_qrzlog_qsldate:8>20240219
+<app_qrzlog_status:1>C
+<band:3>10m
+<band_rx:3>10m
+<call:5>VK1MA
+<comment:25>FT8  Sent: -13  Rcvd: -13
+<cont:2>OC
+<country:9>Australia
+<cqz:2>30
+<distance:4>7884
+<dxcc:3>150
+<freq:7>28.0753
+<freq_rx:7>28.0753
+<gridsquare:4>QF44
+<iota:6>OC-001
+<ituz:2>59
+<lat:11>S035 11.300
+<lon:11>E149 02.400
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240217
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:11>Matt McNeil
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240215
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240215
+<qso_date_off:8>20240215
+<qth:13>Canberra, ACT
+<rst_rcvd:3>-13
+<rst_sent:3>-13
+<station_callsign:6>BD5HLI
+<time_off:4>0813
+<time_on:4>0811
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1058152074
+<app_qrzlog_qsldate:8>20240219
+<app_qrzlog_status:1>C
+<band:3>12m
+<band_rx:3>12m
+<call:4>UN5J
+<comment:25>FT8  Sent: -02  Rcvd: -19
+<cont:2>AS
+<country:10>Kazakhstan
+<cqz:2>17
+<distance:4>3802
+<dxcc:3>130
+<email:19>vlad.un5j@gmail.com
+<freq:7>24.9167
+<freq_rx:7>24.9167
+<gridsquare:4>NN19
+<ituz:2>31
+<lat:11>N049 56.717
+<lon:11>E082 36.967
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240219
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:20>Vladimir R. Koshelev
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240219
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:16>DIRECT VIA RW6HS
+<qso_date:8>20240219
+<qso_date_off:8>20240219
+<qth:16>UST-KAMENOGORSK,
+<rst_rcvd:3>-19
+<rst_sent:3>-02
+<station_callsign:6>BD5HLI
+<time_off:4>0253
+<time_on:4>0251
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1058157471
+<app_qrzlog_qsldate:8>20240220
+<app_qrzlog_status:1>C
+<band:3>17m
+<band_rx:3>17m
+<call:6>JA0IAA
+<comment:25>FT8  Sent: -10  Rcvd: -01
+<cont:2>AS
+<country:5>Japan
+<cqz:2>25
+<distance:4>1919
+<dxcc:3>339
+<email:23>iaasada@amy.hi-ho.ne.jp
+<freq:7>18.1017
+<freq_rx:7>18.1017
+<gridsquare:6>PM97KM
+<iota:6>AS-007
+<ituz:2>45
+<lat:11>N037 32.097
+<lon:11>E138 54.849
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240219
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:19>"HIRO" HIROSHI SADA
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240219
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:22>BURO e-QSL DIRECT LoTW
+<qso_date:8>20240219
+<qso_date_off:8>20240219
+<qth:24>MITSUKE,NIIGATA,954-0051
+<rst_rcvd:3>-01
+<rst_sent:3>-10
+<station_callsign:6>BD5HLI
+<time_off:4>0301
+<time_on:4>0300
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1058157898
+<app_qrzlog_status:1>N
+<band:3>17m
+<band_rx:3>17m
+<call:6>RW9UBP
+<comment:25>FT8  Sent: -17  Rcvd: -19
+<cont:2>EU
+<country:14>Asiatic Russia
+<cqz:2>18
+<distance:4>3910
+<dxcc:2>15
+<email:16>rw9ubp@yandex.ru
+<freq:6>18.102
+<freq_rx:6>18.102
+<gridsquare:6>NO36AC
+<ituz:2>31
+<lat:11>N056 06.200
+<lon:11>E086 02.400
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:20>Nickolay S. Dmitriev
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240219
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240219
+<qso_date_off:8>20240219
+<qth:36>Anzhero-Sudzhensk, Kemerovskaya obl.
+<rst_rcvd:3>-19
+<rst_sent:3>-17
+<station_callsign:6>BD5HLI
+<time_off:4>0304
+<time_on:4>0302
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1058159170
+<app_qrzlog_qsldate:8>20240219
+<app_qrzlog_status:1>C
+<band:3>15m
+<band_rx:3>15m
+<call:6>BG2EZM
+<comment:25>FT8  Sent: -14  Rcvd: -19
+<cont:2>AS
+<country:5>China
+<cqz:2>24
+<distance:4>1510
+<dxcc:3>318
+<email:16>710377456@qq.com
+<freq:7>21.0757
+<freq_rx:7>21.0757
+<gridsquare:4>PN56
+<ituz:2>33
+<lat:11>N043 18.750
+<lon:11>E124 37.500
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240219
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:9>Yuxin Guo
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240219
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240219
+<qso_date_off:8>20240219
+<qth:7>Jiamusi
+<rst_rcvd:3>-19
+<rst_sent:3>-14
+<station_callsign:6>BD5HLI
+<time_off:4>0309
+<time_on:4>0308
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1058159541
+<app_qrzlog_qsldate:8>20240223
+<app_qrzlog_status:1>C
+<band:3>15m
+<band_rx:3>15m
+<call:6>XV9WJR
+<comment:25>FT8  Sent: -12  Rcvd: -20
+<cont:2>AS
+<country:7>Vietnam
+<cqz:2>26
+<distance:4>2591
+<dxcc:3>293
+<email:18>wa7wjr@hotmail.com
+<freq:7>21.0756
+<freq_rx:7>21.0756
+<gridsquare:6>OK30MH
+<ituz:2>49
+<lat:11>N010 18.700
+<lon:11>E107 02.400
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:11>BJ Rollison
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240219
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:13>SAE to WA7WJR
+<qso_date:8>20240219
+<qso_date_off:8>20240219
+<qth:8>Bien Hoa
+<rst_rcvd:3>-20
+<rst_sent:3>-12
+<station_callsign:6>BD5HLI
+<time_off:4>0312
+<time_on:4>0311
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1059299025
+<app_qrzlog_qsldate:8>20240221
+<app_qrzlog_status:1>C
+<band:3>10m
+<band_rx:3>10m
+<call:6>7M1ELX
+<comment:25>FT8  Sent: -06  Rcvd: -02
+<cont:2>AS
+<country:5>Japan
+<cqz:2>25
+<distance:4>1931
+<dxcc:3>339
+<email:26>mt-tyd59@kbf.biglobe.ne.jp
+<freq:7>28.0756
+<freq_rx:7>28.0756
+<gridsquare:6>PM95RM
+<ituz:2>45
+<lat:11>N036 31.248
+<lon:11>E139 27.480
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240221
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:15>Mitsuaki Toyoda
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240221
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240221
+<qso_date_off:8>20240221
+<qth:18>MACHIDA-CITY TOKYO
+<rst_rcvd:3>-02
+<rst_sent:3>-06
+<station_callsign:6>BD5HLI
+<time_off:4>0136
+<time_on:4>0135
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1059321224
+<app_qrzlog_status:1>N
+<band:3>10m
+<band_rx:3>10m
+<call:5>RC0UC
+<comment:25>FT8  Sent: -10  Rcvd: -16
+<cont:2>AS
+<country:14>Asiatic Russia
+<cqz:2>16
+<distance:4>2162
+<dxcc:2>15
+<freq:7>28.0754
+<freq_rx:7>28.0754
+<gridsquare:4>OO81
+<ituz:2>20
+<lat:11>N048 18.750
+<lon:11>E110 37.500
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240221
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240221
+<qso_date_off:8>20240221
+<rst_rcvd:3>-16
+<rst_sent:3>-10
+<station_callsign:6>BD5HLI
+<time_off:4>0141
+<time_on:4>0140
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1059327905
+<app_qrzlog_qsldate:8>20240221
+<app_qrzlog_status:1>C
+<band:3>10m
+<band_rx:3>10m
+<call:6>JK1OKZ
+<comment:25>FT8  Sent: -08  Rcvd: -13
+<cont:2>AS
+<country:5>Japan
+<cqz:2>25
+<distance:4>1909
+<dxcc:3>339
+<freq:7>28.0756
+<freq_rx:7>28.0756
+<gridsquare:6>PM95RR
+<iota:6>AS-007
+<ituz:2>45
+<lat:11>N035 43.700
+<lon:11>E139 27.400
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240221
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:10>Naoki Nago
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240221
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240221
+<qso_date_off:8>20240221
+<qth:22>Kokubunji-city, Tokyo,
+<rst_rcvd:3>-13
+<rst_sent:3>-08
+<station_callsign:6>BD5HLI
+<time_off:4>0142
+<time_on:4>0142
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1059359788
+<app_qrzlog_status:1>N
+<band:3>10m
+<band_rx:3>10m
+<call:6>JK1CBF
+<comment:25>FT8  Sent: -16  Rcvd: -08
+<cont:2>AS
+<country:5>Japan
+<cqz:2>25
+<distance:4>1239
+<dxcc:3>339
+<freq:7>28.0756
+<freq_rx:7>28.0756
+<gridsquare:4>PM96
+<ituz:2>45
+<lat:11>N033 18.750
+<lon:11>E132 37.500
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240221
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240221
+<qso_date_off:8>20240221
+<rst_rcvd:3>-08
+<rst_sent:3>-16
+<station_callsign:6>BD5HLI
+<time_off:4>0214
+<time_on:4>0213
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1060010899
+<app_qrzlog_qsldate:8>20240222
+<app_qrzlog_status:1>C
+<band:3>15m
+<band_rx:3>15m
+<call:6>BH8UKJ
+<comment:25>FT8  Sent: -14  Rcvd: -04
+<cont:2>AS
+<country:5>China
+<cqz:2>24
+<distance:4>1818
+<dxcc:3>318
+<email:14>sm-shi@163.com
+<freq:7>21.0756
+<freq_rx:7>21.0756
+<gridsquare:6>OL14GV
+<ituz:2>43
+<lat:11>N024 53.346
+<lon:11>E102 33.620
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240222
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:10>佀 先生
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240222
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:20>eQSL, LOTW, Mail QSL
+<qso_date:8>20240222
+<qso_date_off:8>20240222
+<qth:7>kunming
+<rst_rcvd:3>-04
+<rst_sent:3>-14
+<station_callsign:6>BD5HLI
+<time_off:4>1000
+<time_on:4>0959
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1060011566
+<app_qrzlog_status:1>N
+<band:3>17m
+<band_rx:3>17m
+<call:5>3D2AY
+<comment:25>FT8  Sent: -21  Rcvd: -06
+<cont:2>OC
+<country:4>Fiji
+<distance:4>8183
+<dxcc:3>176
+<email:15>yu3aa@yahoo.com
+<freq:7>18.1013
+<freq_rx:7>18.1013
+<gridsquare:6>RH82XE
+<lat:11>S017 48.750
+<lon:11>E177 57.500
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:15>STEVAN STEPANOV
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240222
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:7>YU 3 AA
+<qso_date:8>20240222
+<qso_date_off:8>20240222
+<qth:4>NADI
+<rst_rcvd:3>-06
+<rst_sent:3>-21
+<station_callsign:6>BD5HLI
+<time_off:4>1007
+<time_on:4>1006
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1060012246
+<app_qrzlog_qsldate:8>20240224
+<app_qrzlog_status:1>C
+<band:3>17m
+<band_rx:3>17m
+<call:5>YB1MR
+<comment:25>FT8  Sent: -06  Rcvd: -07
+<cont:2>OC
+<country:9>Indonesia
+<cqz:2>28
+<distance:4>4289
+<dxcc:3>327
+<email:23>kasmuri.yc1mr@gmail.com
+<freq:7>18.1013
+<freq_rx:7>18.1013
+<gridsquare:6>OI33LR
+<iota:6>OC-021
+<ituz:2>54
+<lat:11>S006 15.713
+<lon:11>E106 59.702
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240224
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:13>Kasmuri Anwar
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240222
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:11>Direct Only
+<qso_date:8>20240222
+<qso_date_off:8>20240222
+<qth:6>Bekasi
+<rst_rcvd:3>-07
+<rst_sent:3>-06
+<station_callsign:6>BD5HLI
+<time_off:4>1012
+<time_on:4>1011
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1060063533
+<app_qrzlog_qsldate:8>20240222
+<app_qrzlog_status:1>C
+<band:3>17m
+<band_rx:3>17m
+<call:6>JF2RYX
+<comment:25>FT8  Sent: -11  Rcvd: -05
+<cont:2>AS
+<country:5>Japan
+<cqz:2>25
+<distance:4>1622
+<dxcc:3>339
+<freq:7>18.1015
+<freq_rx:7>18.1015
+<gridsquare:6>PM84GN
+<iota:6>AS-007
+<ituz:2>45
+<lat:11>N034 34.524
+<lon:11>E136 32.386
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240222
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:13>Mamoru Hikita
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240222
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240222
+<qso_date_off:8>20240222
+<qth:20>Matsusaka-city, Mie,
+<rst_rcvd:3>-05
+<rst_sent:3>-11
+<station_callsign:6>BD5HLI
+<time_off:4>1023
+<time_on:4>1022
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1060067955
+<app_qrzlog_qsldate:8>20240222
+<app_qrzlog_status:1>C
+<band:3>17m
+<band_rx:3>17m
+<call:6>JR2IMJ
+<comment:25>FT8  Sent: -21  Rcvd: -05
+<cont:2>AS
+<country:5>Japan
+<cqz:2>25
+<distance:4>1673
+<dxcc:3>339
+<email:22>jr2imj@ax.em-net.ne.jp
+<freq:7>18.1015
+<freq_rx:7>18.1015
+<gridsquare:6>PM85LE
+<iota:6>AS-007
+<ituz:2>45
+<lat:11>N035 10.247
+<lon:11>E136 56.617
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240222
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:11>Shigeru Ono
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240222
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240222
+<qso_date_off:8>20240222
+<qth:30>Tikusa-ku, Nagoya-city, AICHI,
+<rst_rcvd:3>-05
+<rst_sent:3>-21
+<station_callsign:6>BD5HLI
+<time_off:4>1024
+<time_on:4>1023
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1060072680
+<app_qrzlog_qsldate:8>20240222
+<app_qrzlog_status:1>C
+<band:3>17m
+<band_rx:3>17m
+<call:6>BG2BFG
+<comment:25>FT8  Sent: -21  Rcvd: -09
+<cont:2>AS
+<country:5>China
+<cqz:2>24
+<distance:4>1871
+<dxcc:3>318
+<freq:7>18.1015
+<freq_rx:7>18.1015
+<gridsquare:6>PN26NO
+<ituz:2>33
+<lat:11>N046 35.863
+<lon:11>E125 05.081
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240222
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:8>Lei Zhen
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240222
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240222
+<qso_date_off:8>20240222
+<qth:36>DaQing City, Hei Long Jiang Province
+<rst_rcvd:3>-09
+<rst_sent:3>-21
+<station_callsign:6>BD5HLI
+<time_off:4>1025
+<time_on:4>1024
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1060079221
+<app_qrzlog_status:1>N
+<band:3>17m
+<band_rx:3>17m
+<call:6>UA0LQE
+<comment:25>FT8  Sent: -04  Rcvd: -05
+<cont:2>AS
+<country:14>Asiatic Russia
+<cqz:2>17
+<distance:4>1840
+<dxcc:2>15
+<email:16>ua0lqe@gmail.com
+<freq:7>18.1015
+<freq_rx:7>18.1015
+<gridsquare:6>PN53XT
+<ituz:2>30
+<lat:11>N043 48.233
+<lon:11>E131 57.580
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:15>Malinkin VASILY
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240222
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240222
+<qso_date_off:8>20240222
+<qth:9>USSURIISK
+<rst_rcvd:3>-05
+<rst_sent:3>-04
+<station_callsign:6>BD5HLI
+<time_off:4>1026
+<time_on:4>1025
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1060144373
+<app_qrzlog_qsldate:8>20240225
+<app_qrzlog_status:1>C
+<band:3>17m
+<band_rx:3>17m
+<call:5>VR2MI
+<comment:25>FT8  Sent: -12  Rcvd: -13
+<cont:2>AS
+<country:9>Hong Kong
+<cqz:2>24
+<distance:4>1063
+<dxcc:3>321
+<freq:7>18.1015
+<freq_rx:7>18.1015
+<gridsquare:6>OL72CH
+<ituz:2>44
+<lat:11>N022 15.119
+<lon:11>E114 08.201
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:11>Ting Kee Li
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240222
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240222
+<qso_date_off:8>20240222
+<qth:25>Wah Fu(2)EST,Aberdeen, HK
+<rst_rcvd:3>-13
+<rst_sent:3>-12
+<station_callsign:6>BD5HLI
+<time_off:4>1221
+<time_on:4>1220
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1060146757
+<app_qrzlog_qsldate:8>20240223
+<app_qrzlog_status:1>C
+<band:3>17m
+<band_rx:3>17m
+<call:4>E74K
+<comment:25>FT8  Sent: -13  Rcvd: -06
+<cont:2>EU
+<country:22>Bosnia and Herzegovina
+<cqz:2>15
+<distance:4>8513
+<dxcc:3>501
+<email:16>hb9efa@gmail.com
+<freq:7>18.1015
+<freq_rx:7>18.1015
+<gridsquare:6>JN95DA
+<ituz:2>28
+<lat:11>N045 00.825
+<lon:11>E018 19.720
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240222
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:14>Dzevad Kosovac
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240222
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:13>LOTW / DIRECT
+<qso_date:8>20240222
+<qso_date_off:8>20240222
+<qth:6>Odžak
+<rst_rcvd:3>-06
+<rst_sent:3>-13
+<station_callsign:6>BD5HLI
+<time_off:4>1224
+<time_on:4>1223
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1060147666
+<app_qrzlog_status:1>N
+<band:3>17m
+<band_rx:3>17m
+<call:6>VR2XMT
+<comment:25>FT8  Sent: +07  Rcvd: -03
+<cont:2>AS
+<country:9>Hong Kong
+<cqz:2>24
+<distance:4>1036
+<dxcc:3>321
+<email:16>vr2xmt@gmail.com
+<freq:7>18.1015
+<freq_rx:7>18.1015
+<gridsquare:6>OL72CM
+<ituz:2>44
+<lat:11>N022 30.951
+<lon:11>E114 10.340
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:19>CHARLIE HO CHI MING
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240222
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240222
+<qso_date_off:8>20240222
+<qth:19>FANLING POST OFFICE
+<rst_rcvd:3>-03
+<rst_sent:3>+07
+<station_callsign:6>BD5HLI
+<time_off:4>1230
+<time_on:4>1229
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1060148148
+<app_qrzlog_status:1>2
+<band:3>17m
+<band_rx:3>17m
+<call:4>Z33Z
+<comment:25>FT8  Sent: -22  Rcvd: -14
+<cont:2>EU
+<country:29>North Macedonia (Republic of)
+<cqz:2>15
+<distance:4>8399
+<dxcc:3>502
+<email:9>z33z@t.mk
+<freq:7>18.1015
+<freq_rx:7>18.1015
+<gridsquare:6>KN11HK
+<ituz:2>28
+<lat:11>N041 26.200
+<lon:11>E022 37.400
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:13>PANCE ABRASEV
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240222
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:29>WWW.QRZ.COM , NO EQL, NO LOTW
+<qso_date:8>20240222
+<qso_date_off:8>20240222
+<qth:13>2400 STRUMICA
+<rst_rcvd:3>-14
+<rst_sent:3>-22
+<station_callsign:6>BD5HLI
+<time_off:4>1234
+<time_on:4>1231
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1060150469
+<app_qrzlog_qsldate:8>20240222
+<app_qrzlog_status:1>C
+<band:3>17m
+<band_rx:3>17m
+<call:5>CE3BT
+<comment:25>FT8  Sent: -20  Rcvd: -07
+<cont:2>SA
+<country:5>Chile
+<cqz:2>12
+<distance:5>18961
+<dxcc:3>112
+<email:14>ce3bt@cpdxg.cl
+<freq:7>18.1015
+<freq_rx:7>18.1015
+<gridsquare:6>FF46QN
+<ituz:2>14
+<lat:11>S033 18.179
+<lon:11>W070 33.252
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240222
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:22>PEDRO CASTRO AVENDAÑO
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240222
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:50>P.O. BOX 52852 - CORREO CENTRAL - SANTIAGO - CHILE
+<qso_date:8>20240222
+<qso_date_off:8>20240222
+<qth:8>SANTIAGO
+<rst_rcvd:3>-07
+<rst_sent:3>-20
+<station_callsign:6>BD5HLI
+<time_off:4>1247
+<time_on:4>1246
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1060152115
+<app_qrzlog_status:1>N
+<band:3>17m
+<band_rx:3>17m
+<call:5>BD7IS
+<comment:25>FT8  Sent: +08  Rcvd: -05
+<cont:2>AS
+<country:5>China
+<cqz:2>24
+<distance:4>1033
+<dxcc:3>318
+<email:19>13826072168@163.com
+<freq:7>18.1015
+<freq_rx:7>18.1015
+<gridsquare:6>OL63PD
+<ituz:2>44
+<lat:11>N023 09.217
+<lon:11>E113 15.977
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:15>HUANG JIAN PENG
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240222
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:34>DIRECT WITH 1 IRC OR 2$ ( NO BURO)
+<qso_date:8>20240222
+<qso_date_off:8>20240222
+<qth:10>GUANG ZHOU
+<rst_rcvd:3>-05
+<rst_sent:3>+08
+<station_callsign:6>BD5HLI
+<time_off:4>1258
+<time_on:4>1257
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1060584983
+<app_qrzlog_qsldate:8>20240223
+<app_qrzlog_status:1>C
+<band:3>10m
+<band_rx:3>10m
+<call:5>CX2TQ
+<comment:25>FT8  Sent: -19  Rcvd: -16
+<cont:2>SA
+<country:7>Uruguay
+<cqz:2>13
+<distance:5>19388
+<dxcc:3>144
+<email:20>cx2tqpol@hotmail.com
+<freq:7>28.0765
+<freq_rx:7>28.0765
+<gridsquare:6>GF25WI
+<ituz:2>14
+<lat:11>S034 52.647
+<lon:11>W056 09.047
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:35>(Paul) JOSE PABLO AMENDOLA CARRASCO
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240223
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:6>IK2DUW
+<qso_date:8>20240223
+<qso_date_off:8>20240223
+<qth:17>ROCHA ROCHA 27000
+<rst_rcvd:3>-16
+<rst_sent:3>-19
+<station_callsign:6>BD5HLI
+<time_off:4>0623
+<time_on:4>0622
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1060585880
+<app_qrzlog_qsldate:8>20240226
+<app_qrzlog_status:1>C
+<band:3>12m
+<band_rx:3>12m
+<call:5>ES2AJ
+<comment:25>FT8  Sent: -08  Rcvd: -13
+<cont:2>EU
+<country:7>Estonia
+<cqz:2>15
+<distance:4>7423
+<dxcc:2>52
+<freq:7>24.9163
+<freq_rx:7>24.9163
+<gridsquare:6>KO29KM
+<ituz:2>29
+<lat:11>N059 31.200
+<lon:11>E024 52.400
+<lotw_qsl_rcvd:1>Y
+<lotw_qsl_sent:1>Y
+<lotw_qslrdate:8>20240223
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:20>Vjacheslav Rabotchev
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240223
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qso_date:8>20240223
+<qso_date_off:8>20240223
+<qth:27>Tammneeme kula, Viimsi vald
+<rst_rcvd:3>-13
+<rst_sent:3>-08
+<station_callsign:6>BD5HLI
+<time_off:4>0634
+<time_on:4>0633
+<tx_pwr:2>50
+<eor>
+
+<app_qrzlog_logid:10>1060586758
+<app_qrzlog_status:1>N
+<band:3>10m
+<band_rx:3>10m
+<call:4>RC1C
+<comment:25>FT8  Sent: -19  Rcvd: -23
+<cont:2>EU
+<country:6>Russia
+<cqz:2>16
+<distance:4>7117
+<dxcc:2>54
+<email:13>rx1cq@mail.ru
+<freq:7>28.0752
+<freq_rx:7>28.0752
+<gridsquare:6>KP50CD
+<ituz:2>19
+<lat:11>N060 08.569
+<lon:11>E030 13.690
+<lotw_qsl_rcvd:1>N
+<lotw_qsl_sent:1>Y
+<mode:3>FT8
+<my_city:25>Yuhang District, Hangzhou
+<my_country:5>China
+<my_cq_zone:2>24
+<my_gridsquare:4>PM00
+<my_itu_zone:2>44
+<my_lat:11>N030 14.052
+<my_lon:11>E120 00.912
+<my_name:10>Xiaofan Wu
+<my_state:2>ZJ
+<name:14>Dmitry Sokolov
+<operator:6>BD5HLI
+<qrzcom_qso_upload_date:8>20240223
+<qrzcom_qso_upload_status:1>Y
+<qsl_rcvd:1>N
+<qsl_sent:1>N
+<qsl_via:11>DIRECT ONLY
+<qso_date:8>20240223
+<qso_date_off:8>20240223
+<qth:37>Sertolovo, Leningradskaya obl, 188655
+<rst_rcvd:3>-23
+<rst_sent:3>-19
+<station_callsign:6>BD5HLI
+<time_off:4>0644
+<time_on:4>0642
+<tx_pwr:2>50
+<eor>
+
